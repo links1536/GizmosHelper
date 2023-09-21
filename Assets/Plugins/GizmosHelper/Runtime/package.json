@@ -1,0 +1,8 @@
+{
+    "name": "jp.links1536.gizmos_helper",
+    "author": "links1536",
+    "version": "0.0.1",
+    "displayName": "GizmosHelper",
+    "description": "Gizmosで楽するためのヘルパークラス",
+    "unity": "2020.3"
+}
